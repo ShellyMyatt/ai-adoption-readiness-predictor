@@ -67,12 +67,14 @@ This tool can be used by consulting firms and business leaders to:
   
 ## Screenshots
 
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/25d4c11b-c89d-45f7-a401-490c1bcd47c6" width="48%" />
-  <img src="https://github.com/user-attachments/assets/baa4b83e-c4b0-4fd6-b144-40cdc27b8f73" width="48%" />
-</p>
+<h3>AI Readiness Assessment Tool</h3>
+<img src="https://github.com/user-attachments/assets/25d4c11b-c89d-45f7-a401-490c1bcd47c6" width="80%" />
 
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/e1a301d5-60fa-42d9-a2df-7926b65d8862" width="48%" />
-  <img src="https://github.com/user-attachments/assets/02f1413a-f50e-4641-b411-290a3d0b0520" width="48%" />
-</p>
+<h3>Model Output</h3>
+<img src="https://github.com/user-attachments/assets/baa4b83e-c4b0-4fd6-b144-40cdc27b8f73" width="80%" />
+
+<h3>AI Adoption Insights</h3>
+<img src="https://github.com/user-attachments/assets/e1a301d5-60fa-42d9-a2df-7926b65d8862" width="80%" />
+
+<h3>Key Drivers of AI Adoption</h3>
+<img src="https://github.com/user-attachments/assets/02f1413a-f50e-4641-b411-290a3d0b0520" width="80%" />
