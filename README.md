@@ -67,9 +67,8 @@ This tool can be used by consulting firms and business leaders to:
   
 ## Screenshots
 
-<p align="center" style="line-height: 0;">
-  <img src="https://github.com/user-attachments/assets/25d4c11b-c89d-45f7-a401-490c1bcd47c6" width="85%">
-  <img src="https://github.com/user-attachments/assets/baa4b83e-c4b0-4fd6-b144-40cdc27b8f73" width="85%">
-  <img src="https://github.com/user-attachments/assets/e1a301d5-60fa-42d9-a2df-7926b65d8862" width="85%">
-  <img src="https://github.com/user-attachments/assets/02f1413a-f50e-4641-b411-290a3d0b0520" width="85%">
-</p>
+<img width="864" height="226" alt="ai_tool_interface" src="https://github.com/user-attachments/assets/9ec56a30-bb0a-4465-805d-1d3b282eb933" />
+<img width="797" height="236" alt="ai_tool_interface2" src="https://github.com/user-attachments/assets/09fd94f9-e5e9-4195-88af-48d6206eae8a" />
+<img width="466" height="431" alt="Estimated AI Adoption Readiness by Industry" src="https://github.com/user-attachments/assets/836f7301-df7b-4aae-b8c3-da83e4360b8c" />
+<img width="1084" height="609" alt="Key Drivers of AI Adoption Readiness" src="https://github.com/user-attachments/assets/8cb1d714-b7bf-4503-909b-c42b1ded0ec1" />
+
